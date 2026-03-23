@@ -1,0 +1,120 @@
+{
+  "cesp_version": "1.0",
+  "name": "teemo-kr",
+  "display_name": "티모 (한국어)",
+  "version": "1.0.0",
+  "description": "리그 오브 레전드 2024 ASU 티모 한국어 음성팩. 밴들시티 정찰대장 티모 출동! 본 프로젝트는 Riot Games의 Legal Jibber Jabber 정책에 따라 제작되었으며, 사용된 에셋의 저작권은 Riot Games에 있습니다. Riot Games는 본 프로젝트를 보증하거나 후원하지 않습니다. (Created under Riot Games' Legal Jibber Jabber policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.)",
+  "author": {
+    "name": "peon-ping",
+    "github": "PeonPing"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ko",
+  "tags": [
+    "league-of-legends",
+    "teemo",
+    "korean",
+    "gaming",
+    "lol"
+  ],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/ready-to-launch.mp3",
+          "label": "출동 준비 완료",
+          "sha256": "1c0ea1d6dce5db12202960e069ef46b8754cb0bf7874103e3efc2b378b7f976a"
+        },
+        {
+          "file": "sounds/captain-teemo.mp3",
+          "label": "티모대위 명을 받을겠습니다",
+          "sha256": "4c7cdd9491e19f1ca7d2d7ad463a2e0e102667b3e922c363db780f0e3978be0d"
+        },
+        {
+          "file": "sounds/laugh.mp3",
+          "label": "웃음소리",
+          "sha256": "46ff9d1f1ff211692f27f8d8abf63e2e73ff1891ed47446f5a1e60e8e1480b53"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/yes-sir.mp3",
+          "label": "옛썰",
+          "sha256": "9d94c1e80f0cdbc3d63cf8f776d3a084758fefe6d57240af8ab6e2ecf9cd1c8a"
+        },
+        {
+          "file": "sounds/on-patrol.mp3",
+          "label": "정찰 다녀오겠습니다",
+          "sha256": "30011992749d2a0b7ad8d80a7c745b6d789bf7bd1fd8dc4702f01d9d5ab21682"
+        },
+        {
+          "file": "sounds/hut-two-three-four.mp3",
+          "label": "핫 둘 셋 넷",
+          "sha256": "33af6dfd5b24d1cb7a2f28e3cd9b011e01c9615eaafa603bc30c36ea0bfac093"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/sting.mp3",
+          "label": "그거 좀 따가울거야",
+          "sha256": "bbdbcab94444f94ff8191d7dc9465b206581a165b3c2d64579daa2243fa86ebb"
+        },
+        {
+          "file": "sounds/reporting.mp3",
+          "label": "보고드립니다",
+          "sha256": "8cfb0376acd9a4e8b30fd9fa141c270fba0517556008fa7be76e40757ad2b928"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/defeat.mp3",
+          "label": "패배",
+          "sha256": "cf073ffdb73bfd17df8729043d42d1ef87e84c977e26117cb62dd4831daeb7cf"
+        },
+        {
+          "file": "sounds/ally-down.mp3",
+          "label": "아군이 당했습니다",
+          "sha256": "211738e98bc260275e7e1fafe443a97ed06cb5662915213b587977cfb71ddeab"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/dont-underestimate.mp3",
+          "label": "정찰대의 규율을 깔보지 마시길",
+          "sha256": "5a096429168fcef87359b6b8159184d053c887a10ce274504f084651568736fb"
+        },
+        {
+          "file": "sounds/zhonya.mp3",
+          "label": "존야의 모래시계",
+          "sha256": "8fc9d31844b720c5556429a1c00e5fe0ca2b927cf59af06b22f61859626f2a13"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/mia-ping.mp3",
+          "label": "미아핑",
+          "sha256": "1a99a40b0cd78dca34bbe6a6812c722930fdbfb974dbc754ee871893e8d26066"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/going-crazy.mp3",
+          "label": "미쳐날뛰고있습니다",
+          "sha256": "86f1c9727a066888e4f25974ac238b3278fdb8b738c390a85e9afc6782429f1a"
+        }
+      ]
+    }
+  }
+}
