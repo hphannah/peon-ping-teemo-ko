@@ -1,0 +1,4 @@
+*.mp3
+!sounds/*.mp3
+*.vtt
+.DS_Store

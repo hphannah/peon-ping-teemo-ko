@@ -1,0 +1,120 @@
+{
+  "cesp_version": "1.0",
+  "name": "teemo-kr",
+  "display_name": "Teemo (Korean)",
+  "version": "1.0.1",
+  "description": "League of Legends 2024 ASU Teemo Korean voice pack. Captain Teemo on duty! Created under Riot Games' Legal Jibber Jabber policy using assets owned by Riot Games. Riot Games does not endorse or sponsor this project.",
+  "author": {
+    "name": "hphannah",
+    "github": "hphannah"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "ko",
+  "tags": [
+    "league-of-legends",
+    "teemo",
+    "korean",
+    "gaming",
+    "lol"
+  ],
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/ready-to-launch.mp3",
+          "label": "Ready to Launch",
+          "sha256": "1c0ea1d6dce5db12202960e069ef46b8754cb0bf7874103e3efc2b378b7f976a"
+        },
+        {
+          "file": "sounds/captain-teemo.mp3",
+          "label": "Captain Teemo Reporting",
+          "sha256": "4c7cdd9491e19f1ca7d2d7ad463a2e0e102667b3e922c363db780f0e3978be0d"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/yes-sir.mp3",
+          "label": "Yes Sir",
+          "sha256": "9d94c1e80f0cdbc3d63cf8f776d3a084758fefe6d57240af8ab6e2ecf9cd1c8a"
+        },
+        {
+          "file": "sounds/on-patrol.mp3",
+          "label": "On Patrol",
+          "sha256": "30011992749d2a0b7ad8d80a7c745b6d789bf7bd1fd8dc4702f01d9d5ab21682"
+        },
+        {
+          "file": "sounds/hut-two-three-four.mp3",
+          "label": "Hut Two Three Four",
+          "sha256": "33af6dfd5b24d1cb7a2f28e3cd9b011e01c9615eaafa603bc30c36ea0bfac093"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/sting.mp3",
+          "label": "That'll Sting a Bit",
+          "sha256": "bbdbcab94444f94ff8191d7dc9465b206581a165b3c2d64579daa2243fa86ebb"
+        },
+        {
+          "file": "sounds/reporting.mp3",
+          "label": "Reporting In",
+          "sha256": "8cfb0376acd9a4e8b30fd9fa141c270fba0517556008fa7be76e40757ad2b928"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/defeat.mp3",
+          "label": "Defeat",
+          "sha256": "cf073ffdb73bfd17df8729043d42d1ef87e84c977e26117cb62dd4831daeb7cf"
+        },
+        {
+          "file": "sounds/ally-down.mp3",
+          "label": "Ally Down",
+          "sha256": "211738e98bc260275e7e1fafe443a97ed06cb5662915213b587977cfb71ddeab"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/dont-underestimate.mp3",
+          "label": "Don't Underestimate the Scouts",
+          "sha256": "5a096429168fcef87359b6b8159184d053c887a10ce274504f084651568736fb"
+        },
+        {
+          "file": "sounds/zhonya.mp3",
+          "label": "Zhonya's Hourglass",
+          "sha256": "8fc9d31844b720c5556429a1c00e5fe0ca2b927cf59af06b22f61859626f2a13"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/mia-ping.mp3",
+          "label": "MIA Ping",
+          "sha256": "1a99a40b0cd78dca34bbe6a6812c722930fdbfb974dbc754ee871893e8d26066"
+        },
+        {
+          "file": "sounds/laugh.mp3",
+          "label": "Laugh",
+          "sha256": "46ff9d1f1ff211692f27f8d8abf63e2e73ff1891ed47446f5a1e60e8e1480b53"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/going-crazy.mp3",
+          "label": "Going Crazy",
+          "sha256": "86f1c9727a066888e4f25974ac238b3278fdb8b738c390a85e9afc6782429f1a"
+        }
+      ]
+    }
+  }
+}
